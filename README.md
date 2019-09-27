@@ -64,7 +64,8 @@ Exacte waarden voor kleuren, padding en margin zijn in deze oefening van minder 
 De essentie is dat de structuur correct is.
 
 Het resultaat in de browser:
-![](images/51.png)
+
+![](images/510.png)
 
 1. Maak uitsluitend gebruik van float–layout om de website  te maken.	
 2. Garage Cnockaert + Aanbiedingen  h1.
