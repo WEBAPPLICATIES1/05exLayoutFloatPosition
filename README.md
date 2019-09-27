@@ -57,3 +57,18 @@ Ga nu naar Visual Studio Code en open deze map.
 ![](images/59.png)
 
 
+## Oefening 2: Garage Cnockaert
+
+Maak deze oefening in de map Cnockaert (is reeds aangemaakt). Deze map bevat reeds HTML bestanden een CSS bestand en de afbeeldingen die in de oefening worden gebruikt.
+Exacte waarden voor kleuren, padding en margin zijn in deze oefening van minder belang.
+De essentie is dat de structuur correct is.
+
+Het resultaat in de browser:
+![](images/51.png)
+
+1. Maak uitsluitend gebruik van float–layout om de website  te maken.	
+2. Garage Cnockaert + Aanbiedingen  h1.
+3. Officiële dealer van Kia/ 7 jaar garantie / Contact / Fiat 500 C / Fiat Panda / Fiat Qubo	h3
+4. Het centrale gedeelte heeft een breedte van 890px en is gecentreerd.	
+5. De breedte van het linkse gedeelte is 75% van de totale breedte.	
+6. De maximum breedte van elk van de 3 afbeeldingen van de auto’s is 195px
