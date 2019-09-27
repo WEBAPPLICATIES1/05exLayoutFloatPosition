@@ -75,6 +75,7 @@ Het resultaat in de browser:
 6. De maximum breedte van elk van de 3 afbeeldingen van de auto’s is 195px
 
 ## OEFENING 3: YOKO
+*aan te passen adhv de oplossing tot nu...*
 
 Voeg de correcte CSS toe om volgende pagina te bekomen.
 
