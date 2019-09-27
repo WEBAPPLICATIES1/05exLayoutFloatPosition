@@ -6,7 +6,7 @@ Pak deze zip uit in de map waar je alle leermateriaal van Webapplicaties I plaat
 
 Ga nu naar Visual Studio Code en open deze map.
 
-## OEFENING 1: Enkele korte oefeningen
+## OEFENING 1: Enkele kleine oefeningen
 
 ### Opgave 1 
 - Open het bestaande HTML en CSS bestand: float.html en float.css
@@ -29,14 +29,19 @@ Ga nu naar Visual Studio Code en open deze map.
   - De twee articles hebben een margin van 1.5em en een hoogte van 8em.
 
 ### Opgave 2
-- Open postion.html en position.css
+
+- Open postion.html en position.css. We zien dit beeld:
+
 ![](images/54.png)
 
 - Gebruik de juiste *position* en vul de CSS code aan zodat we volgend beeld krijgen bij gemaximaliseerd browservenster:
+
 ![](images/55.png)
 
 - Bij gemaximaliseerd browservenster, na scrollen naar beneden zien we:
+
 ![](images/56.png)
 
 - het beeld bij een kleiner browservenster:
+
 ![](images/57.png)
