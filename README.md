@@ -73,3 +73,40 @@ Het resultaat in de browser:
 4. Het centrale gedeelte heeft een breedte van 890px en is gecentreerd.	
 5. De breedte van het linkse gedeelte is 75% van de totale breedte.	
 6. De maximum breedte van elk van de 3 afbeeldingen van de auto’s is 195px
+
+## OEFENING 3: YOKO
+
+Voeg de correcte CSS toe om volgende pagina te bekomen.
+
+![](images/511.png)
+
+Dit is een mogelijk stappenplan om deze webpagina op te maken en te layouten.
+
+1. Boxsize instellen
+- zorg ervoor dat width en heigth gelden voor content - padding - border bij de gepaste elementen (zie index.html)
+
+2. Algemene instellingen voor webpagina
+- kleur - lettertype (sans-serif lettertype) - lijn hoogte (1.2) - een kleiner lettertype 
+
+3. Opmaak header: kleur - bg-image - hoogte afbeelding header
+
+4. Menubalk 
+
+5. Opmaak afbeeldingen en beschrijving:
+- dimensies komen overeen met dimensies van *.jpg
+- kadertje eromheen met ruimte tussen kader en afbeelding
+- beschrijving komt rechts van de afbeelding te staan
+- extra ruimte tussen afbeelding en beschrijving
+- figcaption kleiner lettertype
+- extra ruimte tussen description en rechtse content
+
+6. Overige opmaak
+- opmaak anchors in aside
+- meer afstand tussen recipes en contact
+- opmaak headings
+- opmaak nav en footer
+
+7. Layout
+- Maak de gepaste blokken los uit de normale flow 
+- Courses (image en beschrijving) 70% en Recipes en contact 30%
+- Let op voor container collapse.
