@@ -27,3 +27,16 @@ Ga nu naar Visual Studio Code en open deze map.
   - De footer heeft een hoogte van 3em.
   - De drie elementen in het midden van de pagina hebben een breedte met de volgende procentuele verdeling 20/55/25,  hun hoogte is 30em.
   - De twee articles hebben een margin van 1.5em en een hoogte van 8em.
+
+### Opgave 2
+- Open postion.html en position.css
+![](images/54.png)
+
+- Gebruik de juiste *position* en vul de CSS code aan zodat we volgend beeld krijgen bij gemaximaliseerd browservenster:
+![](images/55.png)
+
+- Bij gemaximaliseerd browservenster, na scrollen naar beneden zien we:
+![](images/56.png)
+
+- het beeld bij een kleiner browservenster:
+![](images/57.png)
