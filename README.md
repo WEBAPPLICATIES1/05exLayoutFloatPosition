@@ -48,7 +48,7 @@ Ga nu naar Visual Studio Code en open deze map.
 
 ### Opgave 3
 
-- Open de startbestanden en bekijk de aanwezige code. We hebben voorlopig:
+- Open de startbestanden (buildingblocks) en bekijk de aanwezige code. We hebben voorlopig:
 
 ![](images/58.png)
 
