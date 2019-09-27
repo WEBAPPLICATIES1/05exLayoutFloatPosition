@@ -8,7 +8,8 @@ Ga nu naar Visual Studio Code en open deze map.
 
 ## OEFENING 1: Enkele korte oefeningen
 
-Open het bestaande HTML en CSS bestand: float.html en float.css
+### Opgave 1 
+- Open het bestaande HTML en CSS bestand: float.html en float.css
 
 - Bekijk de gegeven code. Op dit moment ziet de site er als volgt uit:
 ![](images/51.png)
