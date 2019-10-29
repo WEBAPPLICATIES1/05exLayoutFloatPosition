@@ -9,7 +9,7 @@ Ga nu naar Visual Studio Code en open deze map.
 ## OEFENING 1: Enkele kleine oefeningen
 
 ### Opgave 1 
-- Open het bestaande HTML en CSS bestand: float.html en float.css
+- Open het bestaande HTML en CSS bestand: position.html en position.css
 
 - Bekijk de gegeven code. Op dit moment ziet de site er als volgt uit:
 ![](images/51.png)
@@ -30,7 +30,7 @@ Ga nu naar Visual Studio Code en open deze map.
 
 ### Opgave 2
 
-- Open postion.html en position.css. We zien dit beeld:
+- Open float.html en float.css. We zien dit beeld:
 
 ![](images/54.png)
 
