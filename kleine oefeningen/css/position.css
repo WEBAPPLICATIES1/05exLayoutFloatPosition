@@ -1,35 +1,23 @@
 #wrapper {
-    width: 100%;
     background-color: #abcdef;
-    color: #eaeaea;
-    font-family: Verdana, Arial, sans-serif;
+    width: 600px;
+    height: 1600px;
 }
 
-p {
-    padding: 1.5em;
-    font-size: 1.2em;
+div#b1 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
 }
 
-header {
-    background-color: #ff4c22;
+div#b2 {
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
 }
 
-nav {
-    background-color: #123456;
-}
-
-section {
-    background-color: #34aa94;
-}
-
-article {
-    background-color: #787878;
-}
-
-aside {
-    background-color: chocolate;
-}
-
-footer {
-    background-color: darkgreen;
+div#b3 {
+    height: 200px;
+    width: 200px;
+    background-color: dimgrey;
 }
