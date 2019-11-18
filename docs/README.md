@@ -45,6 +45,11 @@ Ga nu naar Visual Studio Code en open deze map.
 
 ![](images/57.png)
 
+#### Tips
+- De blauwe kader staat in het midden van het scherm, gebruikt hiervoor `margin`.
+- De positie van de rode kader is relatief ten op zichte van de blauwe kader.
+- De grijze kader, is altijd zichtbaar zelfs bij het scrollen.
+
 ### Opgave 3
 
 - Open de startbestanden (buildingblocks) en bekijk de aanwezige code. We hebben voorlopig:
