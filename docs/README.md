@@ -23,8 +23,7 @@ Ga nu naar Visual Studio Code en open deze map.
 - Tips
   - Zorg ervoor dat alle elementen een `margin` van `0` hebben.
   - De eigenschappen width en height slaan op de content, border en padding samen (gebruik dus box-sizing).
-  - De header heeft een hoogte van `5em`.
-  - De footer heeft een hoogte van `3em`.
+  - De `header` en `footer` hebben een hoogte van `5em`.
   - De drie elementen in het midden van de pagina hebben een breedte met de volgende procentuele verdeling `20/55/25`, daarnaast is hun hoogte is `30em`.
   - De twee articles hebben een `margin` van `1.5em` en een `hoogte` van `8em`.
 
